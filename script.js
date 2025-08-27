@@ -27,8 +27,8 @@ const questions = [
     {
         question: '분해능이 클수록 관측하기 좋은 망원경이다?',
         answers: [
-            { text: 'O', correct: true },
-            { text: 'X', correct: false }
+            { text: 'O', correct: false },
+            { text: 'X', correct: true }
         ]
     },
     {
